@@ -1,0 +1,7 @@
+C:\Users\hemant\source\repos\oop\oop\calculator\Dice_gameProgram\Dice_gameProgram\bin\Debug\Dice_gameProgram.exe.config
+C:\Users\hemant\source\repos\oop\oop\calculator\Dice_gameProgram\Dice_gameProgram\bin\Debug\Dice_gameProgram.exe
+C:\Users\hemant\source\repos\oop\oop\calculator\Dice_gameProgram\Dice_gameProgram\bin\Debug\Dice_gameProgram.pdb
+C:\Users\hemant\source\repos\oop\oop\calculator\Dice_gameProgram\Dice_gameProgram\obj\Debug\Dice_gameProgram.csproj.AssemblyReference.cache
+C:\Users\hemant\source\repos\oop\oop\calculator\Dice_gameProgram\Dice_gameProgram\obj\Debug\Dice_gameProgram.csproj.CoreCompileInputs.cache
+C:\Users\hemant\source\repos\oop\oop\calculator\Dice_gameProgram\Dice_gameProgram\obj\Debug\Dice_gameProgram.exe
+C:\Users\hemant\source\repos\oop\oop\calculator\Dice_gameProgram\Dice_gameProgram\obj\Debug\Dice_gameProgram.pdb
