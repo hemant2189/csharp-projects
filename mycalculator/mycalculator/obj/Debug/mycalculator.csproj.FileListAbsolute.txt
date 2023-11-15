@@ -1,0 +1,7 @@
+C:\Users\hemant\source\repos\oop\oop\calculator\mycalculator\mycalculator\bin\Debug\mycalculator.exe.config
+C:\Users\hemant\source\repos\oop\oop\calculator\mycalculator\mycalculator\bin\Debug\mycalculator.exe
+C:\Users\hemant\source\repos\oop\oop\calculator\mycalculator\mycalculator\bin\Debug\mycalculator.pdb
+C:\Users\hemant\source\repos\oop\oop\calculator\mycalculator\mycalculator\obj\Debug\mycalculator.csproj.AssemblyReference.cache
+C:\Users\hemant\source\repos\oop\oop\calculator\mycalculator\mycalculator\obj\Debug\mycalculator.csproj.CoreCompileInputs.cache
+C:\Users\hemant\source\repos\oop\oop\calculator\mycalculator\mycalculator\obj\Debug\mycalculator.exe
+C:\Users\hemant\source\repos\oop\oop\calculator\mycalculator\mycalculator\obj\Debug\mycalculator.pdb
