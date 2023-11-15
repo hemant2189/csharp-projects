@@ -1,0 +1,7 @@
+C:\Users\hemant\source\repos\oop\oop\calculator\shapeareapro\shapeareapro\bin\Debug\shapeareapro.exe.config
+C:\Users\hemant\source\repos\oop\oop\calculator\shapeareapro\shapeareapro\bin\Debug\shapeareapro.exe
+C:\Users\hemant\source\repos\oop\oop\calculator\shapeareapro\shapeareapro\bin\Debug\shapeareapro.pdb
+C:\Users\hemant\source\repos\oop\oop\calculator\shapeareapro\shapeareapro\obj\Debug\shapeareapro.csproj.AssemblyReference.cache
+C:\Users\hemant\source\repos\oop\oop\calculator\shapeareapro\shapeareapro\obj\Debug\shapeareapro.csproj.CoreCompileInputs.cache
+C:\Users\hemant\source\repos\oop\oop\calculator\shapeareapro\shapeareapro\obj\Debug\shapeareapro.exe
+C:\Users\hemant\source\repos\oop\oop\calculator\shapeareapro\shapeareapro\obj\Debug\shapeareapro.pdb
