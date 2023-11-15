@@ -1,0 +1,7 @@
+C:\Users\hemant\source\repos\oop\oop\calculator\TurnBasedproject\TurnBasedproject\obj\Debug\TurnBasedproject.csproj.AssemblyReference.cache
+C:\Users\hemant\source\repos\oop\oop\calculator\TurnBasedproject\TurnBasedproject\obj\Debug\TurnBasedproject.csproj.CoreCompileInputs.cache
+C:\Users\hemant\source\repos\oop\oop\calculator\TurnBasedproject\TurnBasedproject\bin\Debug\TurnBasedproject.exe.config
+C:\Users\hemant\source\repos\oop\oop\calculator\TurnBasedproject\TurnBasedproject\bin\Debug\TurnBasedproject.exe
+C:\Users\hemant\source\repos\oop\oop\calculator\TurnBasedproject\TurnBasedproject\bin\Debug\TurnBasedproject.pdb
+C:\Users\hemant\source\repos\oop\oop\calculator\TurnBasedproject\TurnBasedproject\obj\Debug\TurnBasedproject.exe
+C:\Users\hemant\source\repos\oop\oop\calculator\TurnBasedproject\TurnBasedproject\obj\Debug\TurnBasedproject.pdb
